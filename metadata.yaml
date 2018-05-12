@@ -1,10 +1,16 @@
 _repo: Christina-of-Denmark-Duchess-of-Milan-and-Lorraine-1522-1590_48191
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48191-h/images/cover.jpg
 creator:
   author:
     agent_name: Cartwright, Julia
     gutenberg_agent_id: '44668'
     url: http://www.gutenberg.org/2009/agents/44668
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48191#Christina-of-Denmark-Duchess-of-Milan-and-Lorraine-1522-1590
 gutenberg_issued: '2015-02-07'
 gutenberg_type: Text
 identifiers:
